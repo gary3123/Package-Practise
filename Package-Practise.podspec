@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Package-Practise"
-  spec.version      = "0.0.1"
+  spec.version      = "1.1"
   spec.summary      = "Print a Hello Word."
 
   # This description is used to generate tags and improve search results.

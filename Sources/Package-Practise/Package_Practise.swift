@@ -15,4 +15,8 @@ public struct helloWord {
     public static func inputString(inputString: String) {
         print("\(inputString) hello")
     }
+    
+    public static func badReaction() {
+        print("Leave me alone")
+    }
 }
